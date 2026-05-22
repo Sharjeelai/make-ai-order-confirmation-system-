@@ -34,8 +34,8 @@ I have designed this system with a seamless 4-node logic to ensure maximum relia
 
 ### 📦 How to Import this Blueprint to your Make.com:
 You don't need to build this from scratch! You can set it up in less than 5 minutes:
-1. Download the .json blueprint file from this repository.
+1. Download the.json blueprint file from this repository.
 2. Go to your Make.com dashboard and create a new scenario.
 3. Click the 3 dots (...) at the bottom menu, select *Import Blueprint*, and upload the file.
 4. Connect your own Google account and OpenAI API key, and your system is live!
-5.
+
